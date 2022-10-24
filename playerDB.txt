@@ -1,0 +1,4 @@
+Amos,Setou,Sat Jun 03 1967 00:00:00 GMT+0200 (South Africa Standard Time),true,Mosebo
+Reetsang,Setou,Fri Feb 28 1969 00:00:00 GMT+0200 (South Africa Standard Time),false,Mosebo
+Botlhale,Setou,Sun Jul 10 1994 00:00:00 GMT+0200 (South Africa Standard Time),true,Mosebo
+Lemo,Setou,Tue Sep 25 2001 00:00:00 GMT+0200 (South Africa Standard Time),true,Mosebo
